@@ -1,0 +1,12 @@
+# Node modules
+ReactNative/Project/node_modules/
+
+# Android build
+ReactNative/Project/android/.gradle/
+ReactNative/Project/android/.cxx/
+ReactNative/Project/android/app/.cxx/
+ReactNative/Project/android/app/build/
+
+# iOS build
+ReactNative/Project/ios/build/
+ReactNative/Project/ios/Pods/

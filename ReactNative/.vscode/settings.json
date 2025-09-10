@@ -1,0 +1,20 @@
+{
+  "java.import.exclusions": [
+    "**/node_modules/**",
+    "**/.gradle/**",
+    "**/build/**",
+    "**/.git/**"
+  ],
+  "java.configuration.updateBuildConfiguration": "automatic",
+  "search.exclude": {
+    "**/node_modules": true,
+    "**/.gradle": true,
+    "**/build": true
+  },
+  "files.watcherExclude": {
+    "**/node_modules/**": true,
+    "**/.gradle/**": true,
+    "**/build/**": true
+  }
+}
+
