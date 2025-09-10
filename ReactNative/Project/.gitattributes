@@ -1,0 +1,10 @@
+# Tell GitHub to treat JSX files as JavaScript
+*.jsx linguist-language=JavaScript
+
+# Ignore generated HTML files from language detection
+android/build/** linguist-documentation
+ios/build/** linguist-documentation
+**/build/** linguist-documentation
+
+# Ignore generated reports
+*.html linguist-documentation

@@ -15,6 +15,7 @@
     "**/node_modules/**": true,
     "**/.gradle/**": true,
     "**/build/**": true
-  }
+  },
+  "java.compile.nullAnalysis.mode": "automatic"
 }
 
